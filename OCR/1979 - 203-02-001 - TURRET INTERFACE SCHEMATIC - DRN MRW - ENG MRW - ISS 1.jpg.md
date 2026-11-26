@@ -35,7 +35,7 @@ Wiki page: [M203](../../../../PAGES/M203.md)
 - **Title block:** (716, 36)–(864, 67) mm: WBS · WARD-BeCk SYSTEMS · M2os
 - **Wiring (first pass):** 111 connected wire groups from 908 runs; labelled ends: 223 mm → 95; 215 mm → 74coo, 74014; 123 mm → 22k; 112 mm → 16888, Sis; 86 mm → Rk
 
-Every curve, box, word and wire group: [1979 - 203-02-001 - TURRET INTERFACE SCHEMATIC - DRN MRW - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1979%20-%20203-02-001%20-%20TURRET%20INTERFACE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1979 - 203-02-001 - TURRET INTERFACE SCHEMATIC - DRN MRW - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 203-02-001 - TURRET INTERFACE SCHEMATIC - DRN MRW - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1979%20-%20203-02-001%20-%20TURRET%20INTERFACE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1979 - 203-02-001 - TURRET INTERFACE SCHEMATIC - DRN MRW - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 
