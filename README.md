@@ -1,6 +1,6 @@
 # M203 Turret Interface · Unsorted
 
-Ward-Beck Systems M203, 1979|12. Wiki page: [M203 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M203.html)
+Ward-Beck Systems M203, 1979|12. Wiki page: [M203 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M203-Turret-Interface/)
 
 | Folder | What is in it | Files |
 |---|---|---|

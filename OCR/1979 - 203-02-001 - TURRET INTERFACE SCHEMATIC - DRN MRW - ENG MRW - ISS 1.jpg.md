@@ -1,5 +1,5 @@
 # 1979 - 203-02-001 - TURRET INTERFACE SCHEMATIC - DRN MRW - ENG MRW - ISS 1.jpg
-Wiki page: [M203](../../../../PAGES/M203.md)
+Wiki page: [M203](../)
 
 
 - **Year:** 1979 (title block date)
